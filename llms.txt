@@ -23,6 +23,9 @@
 - [affordable painters Enfield homeowners can compare](https://local-business-guides.github.io/blue-diamond-painters-enfield/affordable-painters-enfield/): Compare affordable painters Enfield homeowners can hire with clearer scopes, practical project planning, and preparation questions in Enfield, CT.
 - [Painter Enfield guide to getting your home ready](https://local-business-guides.github.io/blue-diamond-painters-enfield/painter-enfield/): Painter Enfield guide to planning access, preparing rooms, and asking the right project questions before painting your Enfield, CT, home.
 
+## Newsroom
+- [Blue Diamond Painters Shares Enfield Guide, Video and Podcast](https://local-business-guides.github.io/blue-diamond-painters-enfield/news/2026-10-25-blue-diamond-painters-shares-enfield-guide-video-a/): Blue Diamond Painters released a guide to Enfield painters this week, plus a YouTube video and podcast episode. (2026-10-25)
+
 ## Pages
 - [Enfield Painters in Connecticut](https://local-business-guides.github.io/blue-diamond-painters-enfield/): Give your Enfield home or business a fresh finish with detailed preparation and clear communication throughout your painting project. Call +1860-324-3835.
 - [About Blue Diamond Painters and Contact](https://local-business-guides.github.io/blue-diamond-painters-enfield/about/): About Blue Diamond Painters, Enfield.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/blue-diamond-painters-enfield/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/blue-diamond-painters-enfield/news/rss.xml)
